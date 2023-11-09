@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f8f9;
+  /* background-image: url("https://stories.purebreak.com.br/faculdade-8-cursos-pouco-conhecidos-que-podem-ser-boas-opcoes/assets/10.jpeg"); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,756 @@
+[
+  {
+    "text":"",
+    "question": "Analise a sentença: I have something to tell her, but I don’t know if I should or not. Escolha a alternativa correta.",
+    "options": [
+      "Should é um Modal Verb.",
+      "Should é um Verbo.",
+      "Should é um adjetivo.",
+      "Should é um advérbio.",
+      "Should é um substantivo-adjetivo."
+    ],
+    "answer": "Should é um Modal Verb.",
+    "image": ""
+  },
+  {
+    "text":"",
+    "question": "Analise a sentença “what is she going to do tomorrow?” e escolha a resposta correta.",
+    "options": [
+      "“Going to” marca o futuro com ações já estabelecidas.",
+      "“Going to” marca o futuro com ações inesperadas.",
+      "“Going to” marca o presente simples com ações corriqueiras.",
+      "“Going to” marca o futuro condicional com ações condicionantes.",
+      "“Going to” marca o presente contínuo com ações de continuidade."
+    ],
+    "answer": "“Going to” marca o futuro com ações já estabelecidas.",
+    "image": ""
+  },
+  {
+    "text":"",
+    "question": "Analise the sentence: We haven’t done our homework yet. Choose one alternative.",
+    "options": [
+      "A sentença está no presente perfeito forma afirmativa.",
+      "A sentença está no presente perfeito forma negativa.",
+      "A sentença está no presente perfeito forma progressiva.",
+      "A sentença está no presente perfeito forma interrogativa.",
+      "A sentença está no presente perfeito forma passiva."
+    ],
+    "answer": "A sentença está no presente perfeito forma negativa.",
+    "image": ""
+  },
+  {
+    "text":"",
+    "question": "Leia a frase a seguir e assinale a alternativa que corresponda ao seu respectivo tópico gramatical. “If you visit an American city, you will find it very pretty. (…) If the hoods don't get you, the monoxide will”.",
+    "options": [
+      "First Conditional.",
+      "Second Conditional.",
+      "Third Conditional.",
+      "Zero Conditional.",
+      "Simple Present Tense."
+    ],
+    "answer": "First Conditional.",
+    "image": ""
+  },
+  {
+    "text":"",
+    "question": "Answer the questions below using “ever”, “never”, “just”, “already”, “yet”, and choose the correct alternative. Sentence: No. Your cousin hasn't come to the party yet.",
+    "options": [
+      "A particula “Yet” é uma substantivoadjetivo.",
+      "A particula “Yet” é advérbio de tempo.",
+      "A particula “Yet” é um advérbio de lugar.",
+      "A particula “Yet” é um advérbio de intensidade.",
+      "A particula “Yet” é um advérbio comparativo."
+    ],
+    "answer": "A particula “Yet” é advérbio de tempo.",
+    "image": ""
+  },
+  {
+    "text":"“Canção do exílio”<br><br> Se eu tenho de morrer na flor dos anos, Meu Deus! Não seja já; Eu quero ouvir na laranjeira, à tarde, Cantar o sabiá!<br><br> Meu Deus, eu sinto e tu bem vês que eu morro Respirando este ar; Faz que eu viva, Senhor! Dá-me de novo Os gozos do meu lar! [...]”",
+    "question": "Casimiro de Abreu (1839-1860) é um dos tantos poetas vitimados pela vida boêmia, sentimental, dominado pelo pessimismo nos últimos anos de sua vida. Seus temas mais frequentes são a saudade, a infância, a família, o amor platônico e o medo. O poema pertence a qual período literário?",
+    "options": [
+      "Modernismo.",
+      "Naturalismo.",
+      "Romantismo.",
+      "Realismo.",
+      "Barroco."
+    ],
+    "answer": "Romantismo.",
+    "image": ""
+  },
+  {
+    "text":"“Canção do exílio” Se eu tenho de morrer na flor dos anos, Meu Deus! Não seja já; Eu quero ouvir na laranjeira, à tarde, Cantar o sabiá! Meu Deus, eu sinto e tu bem vês que eu morro Respirando este ar; Faz que eu viva, Senhor! Dá-me de novo Os gozos do meu lar! [...]”",
+    "question": "No terceiro verso, “Eu quero ouvir na laranjeira, à tarde,” o termo “eu” exerce função sintática de:",
+    "options": [
+      "sujeito indeterminado.",
+      "sujeito inexistente.",
+      "sujeito composto.",
+      "sujeito simples.",
+      "sujeito elíptico."
+    ],
+    "answer": "sujeito simples.",
+    "image": ""
+  },
+  {
+    "text":"“Canção” “Pus o meu sonho num navio e o navio em cima do mar; - depois, abri o mar com as mãos, para o meu sonho naufragar. Minhas mãos ainda estão molhadas do azul das ondas entreabertas, e a cor que escorre de meus dedos colore as areias desertas. O vento vem vindo de longe, a noite se curva de frio; debaixo da água vai morrendo meu sonho, dentro de um navio... Chorarei quanto for preciso, para fazer com que o mar cresça, e o meu navio chegue ao fundo e o meu sonho desapareça; Depois, tudo estará perfeito: praia lisa, águas ordenadas, meus olhos secos como pedras e as minhas duas mãos quebradas.”",
+    "question": "Mais conhecida como poeta, Cecília Meireles (1902-1964) também foi cronista e contista, deixando uma grande contribuição na área da educação, da literatura infantil e do folclore. Na estrofe a seguir: “Pus o meu sonho num navio e o navio em cima do mar; - depois, abri o mar com as mãos, para o meu sonho naufragar.” o termo em destaque é o verbo “pôr”, conjugado na 1ª pessoa do singular. Em que tempo e em que modo verbal está esse verbo, respectivamente?",
+    "options": [
+      "Presente do indicativo.",
+      "Pretérito perfeito do indicativo",
+      "Pretérito imperfeito do indicativo.",
+      "Futuro do presente do indicativo.",
+      "Futuro do pretérito do indicativo."
+    ],
+    "answer": "Pretérito perfeito do indicativo",
+    "image": ""
+  },
+  {
+    "text":"“Canção” “Pus o meu sonho num navio e o navio em cima do mar; - depois, abri o mar com as mãos, para o meu sonho naufragar. Minhas mãos ainda estão molhadas do azul das ondas entreabertas, e a cor que escorre de meus dedos colore as areias desertas. O vento vem vindo de longe, a noite se curva de frio; debaixo da água vai morrendo meu sonho, dentro de um navio... Chorarei quanto for preciso, para fazer com que o mar cresça, e o meu navio chegue ao fundo e o meu sonho desapareça; Depois, tudo estará perfeito: praia lisa, águas ordenadas, meus olhos secos como pedras e as minhas duas mãos quebradas.”",
+    "question": "Leia a estrofe a seguir e assinale a alternativa correta. “Minhas mãos ainda estão molhadas do azul das ondas entreabertas, e a cor que escorre de meus dedos colore as areias desertas,” O termo em destaque é um verbo:",
+    "options": [
+      "transitivo indireto.",
+      "transitivo direto.",
+      "intransitivo.",
+      "de ligação",
+      "impessoal."
+    ],
+    "answer": "transitivo direto.",
+    "image": ""
+  },
+  {
+    "text":"“Antigamente” “Antigamente, os pirralhos dobravam a língua diante dos pais e se um se esquecia de arear os dentes antes de cair nos braços de Morfeu, era capaz de entrar no couro. Não devia também se esquecer de lavar os pés, sem tugir nem mugir. Nada de bater na cacunda do padrinho, nem de debicar os mais velhos, pois levava tunda. Ainda cedinho, aguava as plantas, ia ao corte e logo voltava aos penates. Não ficava mangando na rua, nem escapulia do mestre, mesmo que não entendesse patavina da instrução moral e cívica. O verdadeiro smart calçava botina de botões para comparecer todo liró ao copo d’água, se bem que no convescote apenas lambiscasse, para evitar flatos. Os bilontras é que eram um precipício, jogando com pau de dois bicos, pelo que carecia muita cautela e caldo de galinha. O melhor era pôr as barbas de molho diante de um treteiro de topete, depois de fintar e engambelar os coiós, e antes que se pusesse tudo em pratos limpos, ele abria o arco.”",
+    "question": "As variações linguísticas são as ramificações naturais de uma língua, as quais se diferenciam da norma padrão em razão de fatores como convenções sociais, momento histórico, contexto ou região onde um falante ou grupo social insere-se. O texto acima é exemplo da seguinte variação linguística:",
+    "options": [
+      "estilística, pois surge da adequação que o falante faz de seu nível de linguagem ao estilo exigido pelo texto ou pela situação comunicativa.",
+      "social, pois não depende da região onde o falante vive, mas sim dos grupos sociais em que ele se insere.",
+      "histórica, comumente usada no passado, mas que caiu em desuso. É percebida por meio dos arcaísmos.",
+      "geográfica, pois consiste na existência de palavras ou de expressões típicas de determinada região.",
+      "regional, pois sofre forte influência do espaço geográfico ocupado pelo falante."
+    ],
+    "answer": "histórica, comumente usada no passado, mas que caiu em desuso. É percebida por meio dos arcaísmos.",
+    "image": ""
+  },
+  {
+    "text":"“Pônei glutão” “Toda criança gosta de comer alguma porcaria, né? Algumas, no entanto, exageram nos doces, frituras e guloseimas. Esse é o caso do britânico Magic, de 4 anos de idade. A única diferença é que Magic não é uma criança, mas sim um pônei. Magic é viciado em comer macarrão instantâneo! O vício começou quando Zoe Foulis, a dona de Magic, preparou um macarrão instantâneo de frango com cogumelos e deixou o pote no chão para esfriar. Não deu outra, Magic abocanhou tudinho! A partir daquele dia, o vício só aumentou. Outro vício que o pequeno pônei sustenta é tomar suco de laranja.”",
+    "question": "No trecho:“...Algumas, no entanto, exageram nos doces, frituras e guloseimas”, a locução conjuntiva em destaque estabelece entre as orações uma relação de:",
+    "options": [
+      "adição.",
+      "oposição.",
+      "conclusão.",
+      "alternância.",
+      "comparação."
+    ],
+    "answer": "oposição.",
+    "image": ""
+  },
+  {
+    "text":"",
+    "question": "Sintaticamente, o princípio da regência verbal é a ligação do verbo aos complementos. Dessa forma, há verbos que não precisam de complemento e outros que exigem essa complementação. Isso pode ocorrer com ou sem auxílio de preposição. Qual é a função sintática dos termos “a primavera” e “à primavera” no 1º e no 2º quadrinho, respectivamente?",
+    "options": [
+      "Objeto indireto e sujeito.",
+      "Objeto direto e vocativo.",
+      "Sujeito e objeto indireto.",
+      "Sujeito e adjunto adverbial de modo.",
+      "Sujeito e adjunto adverbial de tempo."
+    ],
+    "answer": "Sujeito e adjunto adverbial de tempo.",
+    "image": "https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/12.png"
+  },
+  {
+    "text":"",
+    "question": "Considerando a posição da sílaba tônica e as regras de acentuação das palavras, assinale a alternativa correta de acordo com o termo em destaque. “- Aceito também, amigo. Estou com fome de tropeiro...”",
+    "options": [
+      "Oxítona.",
+      "Paroxítona.",
+      "Proparoxítona.",
+      "Ditongo aberto.",
+      "Monossílabo tônico."
+    ],
+    "answer": "Oxítona.",
+    "image": ""
+  },
+  {
+    "text":"“O lado escuro da comida” “A indústria da comida nunca produziu tanta tranqueira. Seu prato polui mais que o seu carro. E estamos sendo envenenados por pesticidas. Ou não? Descubra o que é verdade e o que é mentira nas intrigas que rondam os alimentos. [...] os fertilizantes são a matéria-prima de tudo o que você come hoje, seja alface, seja dois hambúrgueres, alface, queijo e molho especial no pão com gergelim. [...] Sem eles para anabolizar as plantações, não haveria comida para todo mundo. O problema é que, com eles, podemos ficar sem mundo. [...] a agropecuária consegue emitir sozinha 33% dos gases-estufa do mundo, mais do que todos os carros, trens, navios e aviões juntos, que somam 14%. Além disso, os fertilizantes deixam resíduos debaixo da terra que chegam aos lençóis freáticos e acabam no mar. [...]”",
+    "question": "Em “O problema é que, com eles, podemos ficar sem mundo”, qual é o sujeito do verbo “ser”?",
+    "options": [
+      "A comida.",
+      "O mundo.",
+      "O problema.",
+      "Todo mundo.",
+      "Os fertilizantes."
+    ],
+    "answer": "O problema.",
+    "image": ""
+  },
+  {
+    "text":"[...] <b>Choveu durante quatro anos, onze meses e dois dias.</b> Houve épocas de garoa em que todo mundo vestiu suas roupas de ver o bispo e armou uma cara de convalescente para celebrar a estiagem, mas logo se acostumaram a interpretar as pausas como anúncios de recrudescimento. O céu desabava numas tempestades de estropício, e o norte mandava uns furacões que destrambelhavam tetos e derrubavam paredes, e desenterraram pela raiz os últimos pés das plantações. [...] A atmosfera era tão úmida que os peixes teriam podido entrar pelas portas e sair pelas janelas, navegando no ar dos aposentos. [...] Foi preciso escavar canais para desaguar a casa e livrá-la de sapos e caracóis, para que pudessem secar o chão, tirar os tijolos dos pés das camas e caminhar outra vez com sapatos. [...]",
+    "question": "Analise o trecho em destaque e assinale a alternativa que contenha a classificação correta do sujeito da oração e do verbo em destaque em relação à flexão, respectivamente.",
+    "options": [
+      "Verbo impessoal e sujeito simples.",
+      "Verbo unipessoal e sujeito oculto.",
+      "Verbo pessoal e sujeito simples.",
+      "Verbo impessoal e oração sem sujeito.",
+      "Verbo impessoal e sujeito composto."
+    ],
+    "answer": "Verbo impessoal e oração sem sujeito.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": " Na figura a seguir, está representada a divisão de um terreno triangular, na qual se tem algumas relações trigonométricas:  <img src=\"https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/16-1.png\" alt=\"Imagem da pergunta\" /><img src=\"https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/16-2.png\" alt=\"Imagem da pergunta\" /> A razão entre as áreas dos triângulos ABD e BDC é:",
+    "options": [
+      "9/5",
+      "8/5",
+      "6/5",
+      "4/5",
+      "3/5"
+    ],
+    "answer": "4/5",
+    "image": "https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/16.png"
+  },
+  {
+    "text": "",
+    "question": "A vista lateral de uma casa é mostrada na figura a seguir, na qual o pé direito AC = 2,85m e ED = 3,35m e as distâncias AB = 10,20m, BE = 8,25m, AE = 18,05m e CD = 18,00m. Essa lateral será pintada com latas de 1l de tinta, com rendimento 2m²/l. Sendo assim, serão gastas: ",
+    "options": [
+      "36 latas de tinta.",
+      "37 latas de tinta.",
+      "60 latas de tinta.",
+      "72 latas de tinta.",
+      "73 latas de tinta."
+    ],
+    "answer": "37 latas de tinta.",
+    "image": "https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/17.png"
+  },
+  {
+    "text": "",
+    "question": "Um corpo em movimento uniformemente variado inicia seu movimento do repouso e tem seu gráfico de velocidade em função do tempo mostrado a seguir. ",
+    "options": [
+      "aritmética de razão vt",
+      "aritmética de razão vt/2",
+      "geométrica de razão vt",
+      "geométrica de razão vt/2",
+      "indefinida de razão 2vt"
+    ],
+    "answer": "",
+    "image": "https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/18.png"
+  },
+  {
+    "text": "",
+    "question": "Em uma sala de aula da Escola Estadual Amélio de Carvalho Baís, há 40 estudantes do 2° ano do Ensino Médio matriculados no ano de 2021. A data de aniversário de cada estudante está em um dia diferente do ano, sendo o primeiro aniversariante no dia 10 de janeiro e o último em 27 de dezembro. Se as datas de aniversário estão em uma progressão aritmética, o vigésimo aniversário será comemorado no dia:",
+    "options": [
+      "01 de julho.",
+      "07 de julho.",
+      "09 de julho.",
+      "16 de julho.",
+      "19 de julho."
+    ],
+    "answer": "09 de julho.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "A Paróquia Santa Terezinha do Menino Jesus está promovendo um bazar para a construção de um novo abrigo para idosos. No bazar, passaram 250 pessoas, entre homens e mulheres, gastando um total de R$ 3.000,00. Se o valor médio gasto pelos homens foi de R$ 15,00 e pelas mulheres de R$ 10,00, a diferença entre o número de mulheres e homens é:",
+    "options": [
+      "50",
+      "100",
+      "150",
+      "200",
+      "250"
+    ],
+    "answer": "",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Diego é apaixonado por Matemática e propôs um desafio para seus colegas de sala de aula que consistia em saber qual era o dia de seu aniversário. Para isso, ele afirmou que o dia do seu aniversário era igual a um terço da quantidade de números de 3 algarismos múltiplos de cinco, formados pelos elementos do conjunto {0, 3, 4, 5, 7, 8, 9}. O dia, então, do seu aniversário é:",
+    "options": [
+      "03",
+      "15",
+      "21",
+      "28",
+      "30"
+    ],
+    "answer": "28",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "No ano de 2021, ocorreu a eleição para o papel de delegados das Seccionais da COOPERFORTE. A seccional de MS-MT teve quatro candidatos concorrendo a uma vaga de delegado e a uma de suplente. Após o encerramento da eleição, o número de combinações para a vaga de delegado e de suplente é:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12",
+      "24"
+    ],
+    "answer": "12",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Nos estudos de análise de dados e de probabilidade, é fundamental entender a notação e os conceitos sobre arranjos e combinações. Assim, se <img src=\"https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/23.png\" alt=\"Imagem da pergunta\" />, então, o valor de n²  é:",
+    "options": [
+      "2",
+      "4",
+      "16",
+      "25",
+      "100"
+    ],
+    "answer": "100",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "O senhor Deoclides é um pecuarista de gado de corte e apaixonado por Matemática. Para identificar e numerar seu rebanho, enumera as plaquetas nas orelhas do gado com um específico método de contagem elaborado por ele próprio. São quatro dígitos, sendo que o primeiro é uma letra do seu nome. O dígito que ocupa a segunda posição deve ser um número primo entre 0 e 9. O terceiro lugar é um algarismo de 0 a 9 e, na quarta e última posição, é um algarismo cujo valor seja par. Com esse sistema de enumeração, quantos bois ou vacas são possíveis enumerar?",
+    "options": [
+      "9000 possibilidades de enumeração.",
+      "4500 possibilidades de enumeração.",
+      "4000 possibilidades de enumeração.",
+      "3200 possibilidades de enumeração.",
+      "1600 possibilidades de enumeração."
+    ],
+    "answer": "1600 possibilidades de enumeração.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "O Parque Ecológico do Sóter, em Campo Grande, está passando por reformas. O engenheiro Pitágoras replanejou a área ABC como um novo parque para as crianças, determinando aos encarregados que entre os pontos A e C seja instalado um alambrado de segurança e na área determinada pelos pontos ABC seja plantada grama. Determine quantos metros de alambrado serão necessários entre os pontos A e C e quantos metros quadrados de grama aproximadamente serão necessários plantar no parque das crianças. Dados: (use √2 = 1,4 e aproximação de seno de 105º = 0,97; as medidas são fictícias)",
+    "options": [
+      "Serão necessários 210 metros de alambrado e aproximadamente 15278 metros quadrados de grama.",
+      "Serão necessários 280 metros de alambrado e aproximadamente 20000 metros quadrados de grama.",
+      "Serão necessários 180 metros de alambrado e aproximadamente 10000 metros quadrados de grama.",
+      "Serão necessários 130 metros de alambrado e aproximadamente 13500 metros quadrados de grama.",
+      "Serão necessários 150 metros de alambrado e aproximadamente 18278 metros quadrados de grama."
+    ],
+    "answer": "",
+    "image": "https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/25.png"
+  },
+  {
+    "text": "",
+    "question": "Em uma agência de seguros, são comercializados dois tipos de produtos e vendidos por três consultores. No mês de outubro, as vendas de cada produto pelos consultores podem ser representadas pela matriz A; já o valor recebido por cada consultor na venda de cada produto é expresso pela matriz B:<br><img src=\"https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/26-1.png\" alt=\"Imagem da pergunta\" /><br><img src=\"https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/26-2.png\" alt=\"Imagem da pergunta\" /><br>A diferença de receita dos produtos 02 e 01 no mês de outubro foi de:",
+    "options": [
+      "R$ 10.000,00.",
+      "R$ 14.000,00.",
+      "R$ 18.000,00.",
+      "R$ 25.000,00.",
+      "R$ 32.000,00."
+    ],
+    "answer": "R$ 18.000,00.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Durante uma luta do campeonato de Kickboxing realizada na cidade do Dourados-MS, os atletas trocaram golpes que foram analisados em projeções e vídeos. Em uma dessas análises, o atleta A deu um golpe chamado Mawashi Geri, que consiste em um chute circular alto, visando a acertar a cabeça do adversário. Nesse movimento, o atleta A deslocou sua perna no ar, percorrendo um arco de aproximadamente 225º. Enquanto isso, o oponente fez a defesa e soltou o contragolpe, um soco semicircular (ushiro uraken), gerando um movimento de arco de aproximadamente 135º, o qual acertou a ponta do queixo do atleta A, que acabou nocauteado. Determine qual o valor, em radianos, do deslocamento dos arcos dos golpes do atleta A e de seu oponente, assinalando a alternativa correta.",
+    "options": [
+      "Atleta A = 5π/4 rad; oponente = 3π/4 rad. Analisando o movimento em radianos dos atletas, eles percorrem juntos um arco total de 2π radianos.",
+      "Atleta A = 3π/4 rad; oponente = 5π/4 rad. Analisando o movimento em radianos dos atletas, eles percorrem juntos um arco total de 2 π radianos.",
+      "Atleta A = π rad; oponente = 3π/5 rad. Analisando o movimento em radianos dos atletas, eles percorrem juntos um arco total de 8π/5 radianos.",
+      "Atleta A = 8π/5 rad; oponente = 3π/5 rad. Analisando o movimento em radianos dos atletas, eles percorrem juntos um arco total de 11π/5 radianos.",
+      "Atleta A = 7π/4 rad; oponente = 5π/4 rad . Analisando o movimento em radianos dos atletas, eles percorrem juntos um arco total de 12π/4 ou 3 π radianos."
+    ],
+    "answer": "",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Pedro propôs um desafio a Juca: descobrir a sua idade. Então, deu-lhe a seguinte dica: “A minha idade é o simétrico de x.y/x, cujos valores são soluções do sistema linear de equações destacado a seguir:<br> <img src=\"https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/28.png\" alt=\"Imagem da pergunta\" /><br>Assinale a alternativa correta referente ao desafio sobre a solução do sistema e sobre a idade de Pedro.",
+    "options": [
+      "A solução do sistema é (x, y, z) = (- 3, 5, 9), e a idade de Pedro é 15 anos.",
+      "A solução do sistema é (x, y, z) = (- 7, 5, 1), e a idade de Pedro é 12 anos.",
+      "A solução do sistema é (x, y, z) = (- 2, 7, 8), e a idade de Pedro é 28 anos.",
+      "A solução do sistema é (z, y, x) = (- 9, 8, 3), e a idade de Pedro é 24 anos.",
+      "A solução do sistema é (x, y, z) = (3, -5, 12), e a idade de Pedro é 30 anos."
+    ],
+    "answer": "",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Suponhamos que pesquisadores da UFMS estavam analisando o efeito dos diferentes tipos de radiação em colônias de bactérias. Para o experimento, foram adotados dois tipos novos de radiação, um do tipo Alfa, e um do tipo Gama. Os experimentos foram analisados a cada hora, durante 10 horas. Foram testadas duas colônias idênticas (denotadas por A e B), e cada colônia iniciou o experimento com 6 bactérias na hora 1. Foi notado que ao serem expostas a esse novo tipo de radiação Gama, a colônia A triplicou sua população a cada hora, enquanto a colônia B, exposta à nova radiação Alfa, aumentava constantemente sua população em 55 unidades. Observando o exposto, assinale a alternativa correta.",
+    "options": [
+      "Durante as 4 primeiras horas de exposição, a colônia B, exposta à radiação Alfa, tem nove unidades a mais de bactérias, comparando-se a população da colônia A, exposta à radiação Gama. Porém, ao final do experimento, a população de bactérias da colônia A é aproximadamente 235 vezes maior do que a população da B, que chegou a 501 bactérias.",
+      "Ao analisar exatamente a sexta hora do experimento, a colônia B, exposta à radiação Alfa, tinha o dobro da população de bactérias da colônia A, que foi exposta com radiação Gama. Ao final do experimento, a população de bactérias da colônia A foi o dobro da população da colônia B.",
+      "Durante todo o experimento, a população da colônia A, exposta à nova radiação Gama, foi maior do que a população da colônia B, exposta à radiação Alfa, visto que uma aumenta de forma exponencial e a outra de forma linear.",
+      "Ao analisar exatamente a quinta hora do experimento, os pesquisadores notaram que a população de ambas as colônias era igual e, ao final do experimento, a população da colônia A era 300% maior que a população da colônia B.",
+      "Ao final das dez horas de experimento, foi notado que a população de bactérias da colônia A totalizou mais de 200000 unidades, enquanto a população da colônia B ficou entre 1000 e 1500 unidades."
+    ],
+    "answer": "",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Pensando na sua idade em anos (11), na idade do seu pai (52) e na do irmão recémnascido (0), Tino formou o número 11520. Curioso como sempre, ele quis descobrir quantos divisores positivos tem esse número. Assinale a alternativa correta.",
+    "options": [
+      "12 divisores.",
+      "42 divisores.",
+      "54 divisores.",
+      "63 divisores.",
+      "75 divisores."
+    ],
+    "answer": "54 divisores.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Os perigos impostos pelos fungos não deveriam ofuscar os seus benefícios. Dependemos de seus serviços ecológicos como decompositores e recicladores da matéria orgânica. Sem as micorrizas, a agricultura seria menos produtiva. Micorrizas são associações das hifas de certos fungos com raízes de plantas. Os fungos interagem com o tecido da raiz e promovem:",
+    "options": [
+      "o aumento da capacidade de absorção da planta.",
+      "a quimiossíntese de carboidratos para as espécies vegetais.",
+      "a produção de minerais no processo de fotossíntese na fase escura.",
+      "a fixação do nitrogênio disponível na atmosfera para a espécie de planta.",
+      "a maior capacidade da conversão de nitratos do solo em substâncias regulatórias."
+    ],
+    "answer": "",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Ao redor do mundo, cerca de 200 milhões de pessoas estão infectadas com um trematódeo. As doenças que esse trematódeo causa incluem sintomas como dor, anemia e diarreia. Viver dentro de mais de um tipo de hospedeiro obriga esses trematódeos a vivenciarem situações que os animais de vida livre não enfrentam. Esse trematódeo deve evitar os sistemas imunes tanto dos caramujos como dos seres humanos. Pela imitação das proteínas de superfície de seus hospedeiros, o trematódeo do sangue cria para si próprio uma camuflagem imunológica parcial. Ele também libera moléculas que manipulam o sistema imune dos hospedeiros para tolerar a existência dos hospedeiros. Essas defesas são tão eficientes que esses indivíduos podem sobreviver em humanos por mais de 40 anos. Sobre qual parasitose e qual trematódeo o texto se refere, respectivamente?",
+    "options": [
+      "Teníase - Taenia solium.",
+      "Hanseníase - Mycobacterium leprae.",
+      "Doença de Chagas - Trypanosoma cruzi.",
+      "Difteria - Corynebacterium diphtheriae.",
+      "Esquistossomose - Schistosoma mansoni."
+    ],
+    "answer": "Esquistossomose - Schistosoma mansoni.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Sobre as bactérias, assinale a alternativa correta.",
+    "options": [
+      "A estrutura celular é caracterizada pela presença de membrana celular formada basicamente por uma bicamada de fosfolipídios e proteínas inseridas; frequentemente apresentam parede celular composta por peptideoglicanas; também apresentam DNA circular envolvido por membrana, além de organelas simples.",
+      "São organismos procariotos pertencentes ao Reino Protista e diferenciam-se dos organismos mais derivados principalmente pela ausência de organelas membranosas complexas, no entanto, apresentam estruturas essências, como mitocôndrias.",
+      "Podem ser divididas basicamente em dois grandes grupos: as Gram-negativas, que apresentam, entre outras diferenças, a presença de uma camada de lipopolissacarídeo como estrutura extra da parede celular; e as Gram-positivas, que apresentam uma camada mais espessa de peptideoglicanas na parede celular.",
+      "Diferenciam-se dos eucariotos pela ausência de organelas membranosas, incluindo a falta de estrutura delimitante para os seus poucos cromossomos circulares (DNA e proteínas histonas), além da ausência de ribossomos livres no citoplasma.",
+      "Pertencem ao Reino Monera, que é caracterizado pela presença de organismos de baixa complexidade e pouco adaptados a ambientes extremos. Dentro do grupo, a maioria dos representantes é unicelular."
+    ],
+    "answer": "Podem ser divididas basicamente em dois grandes grupos: as Gram-negativas, que apresentam, entre outras diferenças, a presença de uma camada de lipopolissacarídeo como estrutura extra da parede celular; e as Gram-positivas, que apresentam uma camada mais espessa de peptideoglicanas na parede celular.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Quanto ao grupo das plantas, assinale a afirmação correta.",
+    "options": [
+      "As briófitas constituem um grupo monofilético de plantas criptógamas; semiaquáticas; sem diferenciação de tecidos; vascularizadas; oogâmicas; com alternância heteromórfica de gerações; divididas em três filos - Hepatophyta, Anthocerophyta e Bryophyta.",
+      "As pteridófitas constituem-se em um grupo de plantas vasculares espermatófitas, heterogâmicas, com a presença de diferentes tecidos, que teriam surgido posteriormente ao grupo das gimnospermas e angiospermas. O grupo é caracterizado pela presença de sementes, no entanto não apresentam sistema reprodutivo aparente.",
+      "As gimnospermas pertencem a um grupo de origem monofilética de plantas vascularizadas. Essas plantas também são denominadas como criptógamas, uma vez que seus embriões são protegidos por semente e frutos.",
+      "As angiospermas, assim como gimnospermas, são plantas avasculares de origem parafilética, que pertencem ao grupo das criptógamas. O grupo apresenta como apomorfia a presença de flores e frutos.",
+      "As traqueófitas são um grupo de plantas vascularizadas que apresentam diferentes tecidos condutores que asseguram a circulação interna de água, nutrientes e produtos do metabolismo fotossintético. São representantes do grupo: Pteridófitas, Gimnospermas e Angiospermas."
+    ],
+    "answer": "As traqueófitas são um grupo de plantas vascularizadas que apresentam diferentes tecidos condutores que asseguram a circulação interna de água, nutrientes e produtos do metabolismo fotossintético. São representantes do grupo: Pteridófitas, Gimnospermas e Angiospermas.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Quanto ao grupo de invertebrados, assinale a alternativa correta.",
+    "options": [
+      "O filo Porifera é representado por animais multicelulares, com fase adulta e larval séssil. O grupo é organizado basicamente em três tecidos verdadeiros: pinacoderme, mesoílo e coanoderme.",
+      "Os cnidários são animais triploblásticos, sem a presença de tecido verdadeiro. No filo, a presença de cavidade digestiva é uma novidade evolutiva nos animais.",
+      "Os Nematoda são parasitas obrigatórios que, no geral, apresentam estrutura corporal bastante diversificada. A presença de cutícula celular recobrindo o corpo do animal conferiu a esses vermes a resistência para se tornarem parasitas de ampla distribuição.",
+      "Os Mollusca são invertebrados diploblásticos com grande radiação adaptativa. Apresentam celoma, ou seja, uma cavidade do corpo originada a partir da mesoderme.",
+      "O filo Arthropoda apresenta, entre as características estruturais que lhes garantiram sucesso no ambiente terrestre e a ampla distribuição geográfica, a presença de exoesqueleto quitinoso, muda/ecdise e apêndices articulados."
+    ],
+    "answer": "O filo Arthropoda apresenta, entre as características estruturais que lhes garantiram sucesso no ambiente terrestre e a ampla distribuição geográfica, a presença de exoesqueleto quitinoso, muda/ecdise e apêndices articulados.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "O poder calorífico de um combustível corresponde à quantidade de calor liberada quando há a combustão de 1g do combustível. Na tabela a seguir, temos o calor de combustão de cinco combustíveis.<br><img src=\"https://github.com/Lindolfo-teofanes/img/blob/main/38.png\" alt=\"Imagem da pergunta\" /><br>Na escolha de um melhor combustível, a capacidade calorífica não é o único fator que devemos analisar. Além do aspecto energético, é importante avaliar também o impacto ambiental. Com base nesses dois fatores, é correto afirmar que o melhor combustível apresentado na tabela é:<br><br>Dados: H= 1g/mol; C = 12g/mol; O = 16 g/mol",
+    "options": [
+      "GNV.",
+      "Etanol.",
+      "Metanol.",
+      "Gasolina.",
+      "Hidrogênio."
+    ],
+    "answer": "Hidrogênio.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "O Gás Natural Veicular (GNV) é uma mistura de hidrocarbonetos de cadeia pequena, sendo o gás metano o de maior concentração. Um carro adaptado para utilizar GNV tem uma autonomia de aproximadamente 13 Km percorridos por m3 de GNV. Considerando apenas o gás metano como composição do GNV, se um carro percorreu 390 Km utilizando apenas o GNV, determine o valor aproximado da energia liberada (kJ) na combustão completa do combustível GNV durante esse trajeto.<br><img src=\"https://raw.githubusercontent.com/Lindolfo-teofanes/img/main/39.png\" alt=\"Imagem da pergunta\" />",
+    "options": [
+      "6,3.10^5 kJ.",
+      "1,3.10^6 kJ.",
+      "22,8.10^6 kJ.",
+      "3,4.10^5 kJ.",
+      "12,3.10^4 kJ."
+    ],
+    "answer": "1,3.10^6 kJ.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Foi encontrado na Ásia o crânio fóssil de uma nova espécie humana, que viveu há pelo menos 146000 anos atrás, chamada de “homem dragão”. Os pesquisadores correlacionam essa espécie como sendo o parente evolutivo mais próximo do Homo sapiens. Supondo que a datação foi realizada por meio de análise do isótopo radioativo de carbono-14, por quantos tempos de meia-vida (t1/2) aproximadamente, essa amostra teria passado em 146.000 anos? (Dados: Carbono-14 t1/2 = 5730 anos)",
+    "options": [
+      "29 tempos de meia-vida.",
+      "21 tempos de meia-vida.",
+      "3,8 tempos de meia-vida.",
+      "14 tempos de meia-vida.",
+      "25 tempos de meia-vida."
+    ],
+    "answer": "25 tempos de meia-vida.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "O olho humano é um sofisticado sistema óptico que possui células que captam a luz e a transforma em impulsos elétricos que são enviados ao cérebro. No entanto, há alguns problemas visuais que podem afetar a acuidade visual. Uma maneira básica de identificar esses distúrbios é através de análise de imagens de fotografias com flashs e análise de cores em imagens. Essas alterações podem ser classificadas, respectivamente:",
+    "options": [
+      "miopia e hipermetropia.",
+      "miopia e astigmatismo.",
+      "leucoma e daltonismo.",
+      "leucoma e catarata.",
+      "daltonismo e discromatopsia."
+    ],
+    "answer": "leucoma e daltonismo.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Num dia de verão com temperatura ambiente a 35° C, um estudante retira do refrigerador uma garrafa com 2 L de água a 10° C. Ele deixa a garrafa na superfície de uma mesa e, com o decorrer do tempo, percebe que a toalha da mesa, abaixo da garrafa, encontra-se úmida. A causa do suor da garrafa é devido:",
+    "options": [
+      "ao vapor de água de dentro da garrafa, que se condensa na superfície externa e fria da garrafa.",
+      "ao vapor de água do ar ao redor da garrafa, que se condensa na superfície externa e fria da garrafa.",
+      "ao vapor de água de dentro da garrafa, que sofre evaporação.",
+      "ao vapor de água do ar ao redor da garrafa, que se sublima na superfície fria e externa da garrafa.",
+      "à água de dentro da garrafa, que se condensa na superfície externa."
+    ],
+    "answer": "ao vapor de água do ar ao redor da garrafa, que se condensa na superfície externa e fria da garrafa.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "O som é uma vibração que se propaga no ar com variadas frequências, que estão em uma escala que vão de 0 a mais de 200 mil Hz. Pode ser percebido dentro de um intervalo no qual o aparelho auditivo seja capaz de captar. O aparelho auditivo humano não identifica sons que o aparelho auditivo canino pode captar. Podemos dizer que o intervalo de espectro audível mínimo e máximo (em hertz) para cães e humanos encontra-se, respectivamente, nas faixas entre:",
+    "options": [
+      "20 até 40.000Hz e 10 até 15.000Hz",
+      "15 até 50.000Hz e 20 até 20.000Hz",
+      "30 até 60.000Hz e 10 até 20.000Hz",
+      "15 até 30.000Hz e 20 até 10.000Hz",
+      "20 até 60.000Hz e 30 até 40.000Hz"
+    ],
+    "answer": "15 até 50.000Hz e 20 até 20.000Hz",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Durante o Grande Prêmio de Motos, o famoso Moto GP, a moto de número 46, de Valentino Rossi, acelera, despejando toda potência do motor na reta dos boxes. Um espectador da prova caminha ao lado da pista, na direção contrária ao movimento da moto, em velocidade constante de 2,0 m/s. O espectador observa a moto se aproximar, com uma velocidade de 216 Km/h. Considerando que o escapamento do motor da moto emita sons com 862 Hz de frequência, calcule qual será aproximadamente a frequência ouvida pelo espectador.<br><br>(Utilize: velocidade do Som 342 m/s; use no máximo duas casas decimais nos cálculos)",
+    "options": [
+      "1724,00 Hz.",
+      "1700,15 Hz.",
+      "1034,40 Hz.",
+      "930,55 Hz.",
+      "862,00 Hz."
+    ],
+    "answer": "1034,40 Hz.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Uma máquina térmica segundo o ciclo de Carnot, com temperatura da fonte quente a 227 °C e da fonte fria a -23 °C, possui um rendimento de:",
+    "options": [
+      "100%.",
+      "90%.",
+      "88%.",
+      "75%.",
+      "50%."
+    ],
+    "answer": "50%.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "As cidades brasileiras foram classificadas, hierarquicamente, a partir das funções de gestão que exercem sobre outras cidades, considerando tanto seu papel de comando em atividades empresariais quanto de gestão pública e, ainda, em função da sua atratividade para suprir bens e serviços para outras cidades. Tendo por base a hierarquia urbana brasileira, as cidades de Boa Vista (RR), Brasília (DF), Goiânia (GO) e Palmas (TO) são classificadas, respectivamente, como:",
+    "options": [
+      "Capital regional/Grande Metrópole nacional/Metrópole/Capital regional.",
+      "Capital regional/Metrópole nacional/ Metrópole/Capital regional.",
+      "Capital regional/Metrópole/Capital regional/Capital regional.",
+      "Metrópole/Metrópole/ Capital regional/Capital regional.",
+      "Metrópole/Metrópole nacional/Metrópole/ Metrópole."
+    ],
+    "answer": "Capital regional/Metrópole nacional/ Metrópole/Capital regional.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "A implantação da primeira matriz de biocombustíveis no Brasil aconteceu com a criação do PROÁLCOOL na década de 1970. Soma-se a isso, o Programa Nacional de Agroenergia no ano de 2005 e, em 2007, o Programa Nacional de Produção e Uso do Biodiesel. A inserção do biodiesel na matriz energética brasileira se deu essencialmente a partir de iniciativa pública e entre as principais motivações para o País investir na produção de biocombustíveis estão:",
+    "options": [
+      "alta dos preços no mercado internacional, responsabilidade ambiental e proteção contra a redução da oferta de combustíveis fósseis.",
+      "responsabilidade ambiental, promoção da concorrência e diversificação da produção automobilística.",
+      "proteção contra a redução da oferta de combustíveis fósseis, insegurança energética e inserção da atividade na bolsa de valores.",
+      "expansão da atividade econômica, especialização regional e alcance de mercados globais.",
+      "alta dos preços no mercado internacional, insegurança energética e diminuição do desemprego."
+    ],
+    "answer": "",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "O conjunto de fontes disponíveis em um país, estado ou no mundo para suprir a necessidade (demanda) de energia é chamado de matriz energética. Atualmente, os derivados da cana de açúcar correspondem a 19,1% da matriz energética brasileira, um indicador positivo de que o Brasil está evoluindo no uso de fontes de energia sustentáveis. Quais são as outras fontes de energia que podem ser consideradas renováveis?",
+    "options": [
+      "Geotermal e carvão mineral.",
+      "Hidroelétrica e gás natural.",
+      "Maremotriz e geotérmica.",
+      "Solar e gás natural.",
+      "Nuclear e eólica."
+    ],
+    "answer": "Maremotriz e geotérmica.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Durante o século XVIII, uma sucessão de invenções promoveu a origem do modo de produção fabril, na qual um conjunto de melhorias no processo produtivo colaborou para o limiar da Revolução Industrial. Tal revolução transformou a capacidade produtiva inglesa. Anteriormente, nos séculos XVI e XVII, a Inglaterra teve posição de liderança na indústria têxtil de lã. Para a expansão da rede de comércio intercontinental têxtil, a Inglaterra dependia:",
+    "options": [
+      "da especialização de mão de obra, do êxodo rural e da política externa.",
+      "da aquisição de colônias, do estímulo do capitalismo comercial e do poder naval.",
+      "da independência dos países asiáticos, da expansão da malha ferroviária e da exploração das minas de carvão.",
+      "do capitalismo financeiro, do comércio multilateral e da produção de energia elétrica.",
+      "da adoção de parcerias bilaterais, do crescimento das cidades e da especialização técnica."
+    ],
+    "answer": "da aquisição de colônias, do estímulo do capitalismo comercial e do poder naval.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Na discussão a respeito da situação atual dos indígenas no Brasil, o chamado “marco temporal” tem causado diversas manifestações. A tese em questão defende o direito às terras para grupos indígenas que lá se encontravam no dia da promulgação de qual documento oficial?",
+    "options": [
+      "Estatuto do Índio (Lei n. 6.001/73).",
+      "Código Civil Brasileiro (Lei n.3.071/1916).",
+      "Novo Código Civil Brasileiro (Lei n. 10.406/2002).",
+      "Constituição Federal de 1988.",
+      "Fundação Nacional do Índio de 1967."
+    ],
+    "answer": "Constituição Federal de 1988.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Sobre o período regencial brasileiro, é correto afirmar que:",
+    "options": [
+      "foi um período de estabilidade na política nacional, no qual a transição dos imperadores foi assegurada, devido aos sólidos acordos políticos arquitetados no início do século XIX, ficando conhecido como “política do café com leite”.",
+      "foi um período de instabilidade política, marcada por inúmeras revoltas, chamadas de revoltas nativistas, nas quais a população recusava a possibilidade de transição política entre Dom João VI e Dom Pedro I, tendo em vista ameaças de recolonização do Brasil.",
+      "foi um período de grande instabilidade política, tanto na capital quanto nas províncias, marcado por vários conflitos e que foi alavancado pela ausência de um grande produto comercial brasileiro, já que o café só viria a ter impacto significativo, econômico e político, a partir do período regencial.",
+      "foi um período de grande instabilidade política, especialmente devido ao governo ditatorial do regente Diogo Feijó, que habilmente conseguiu reorganizar a política nas províncias, mas que falhou ao propor um governo regido por apenas um regente, diferente do que foi proposto por Dom Pedro I.",
+      "foi um período turbulento politicamente e instável, devido à grave crise econômica e à recessão causada pela diminuição da compra do café brasileiro pela Inglaterra, sendo necessário que Dom Pedro I cedesse seus direitos políticos para seu filho, Dom Pedro II, e assumisse o governo de Portugal, maior parceiro comercial do Reino Unido no período."
+    ],
+    "answer": "foi um período de grande instabilidade política, tanto na capital quanto nas províncias, marcado por vários conflitos e que foi alavancado pela ausência de um grande produto comercial brasileiro, já que o café só viria a ter impacto significativo, econômico e político, a partir do período regencial.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Sobre a fundação dos primeiros núcleos coloniais no interior do continente americano, especificamente no atual território de Mato Grosso do Sul, é correto afirmar que:",
+    "options": [
+      "as missões jesuíticas do Itatim foram fundadas após a destruição da Colônia do Sacramento e possibilitaram a criação dos primeiros núcleos habitacionais do estado.",
+      "o território do atual Mato Grosso do Sul só foi integrado às posses portuguesas após a elaboração e a aprovação do Tratado de Madri em 1750, com a fundação da fazenda Camapuã.",
+      "os primeiros esforços brancos para ocupar a atual região do estado de Mato Grosso do Sul rementem à ocupação castelhana, com a fundação da cidade de Santiago de Xerez na margem do atual rio Miranda, ainda no final do século XVI.",
+      "os bandeirantes paulistas foram os primeiros colonizadores da região, fundando as cidades de Corumbá, Ladário e Miranda como postos avançados para a defesa dos territórios auríferos de Minas Gerais, de Mato Grosso e de Goiás.",
+      "os primeiros núcleos populacionais do atual estado de Mato Grosso do Sul só foram fundados após consolidada a exploração do ouro de aluvião na Vila do Cuiabá, a partir de 1719, integrando o território oeste aos domínios portugueses."
+    ],
+    "answer": "os primeiros esforços brancos para ocupar a atual região do estado de Mato Grosso do Sul rementem à ocupação castelhana, com a fundação da cidade de Santiago de Xerez na margem do atual rio Miranda, ainda no final do século XVI.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Sobre a Conjuração Mineira, é correto afirmar que:",
+    "options": [
+      "colaborou com o processo de independência do Brasil, já que a insatisfação da elite mineira conspirou para a derrubada de Dom João VI e fez com que Dom Pedro I assumisse o trono brasileiro.",
+      "foi uma revolta de caráter separatista, organizada pela elite mineira, que almejava a transformação de Minas Gerais em uma república e que se posicionava contra as excessivas cobranças de impostos da coroa portuguesa diante da economia mineradora.",
+      "deu início ao ciclo do ouro no Brasil, já que associou a descoberta de diamantes com a expansão do território português na América, pois as capitanias de Minas Gerais, de Mato Grosso e de Goiás pertenciam à Espanha, de acordo com o Tratado de Tordesilhas.",
+      "foi uma conspiração arquitetada pela elite mineira de Minas Gerais contra a exploração de escravos, sendo considerada uma revolta de caráter nativista, já que atuava em favor do fim de exploração colonial e pela extinção do tráfico de mão de obra africana.",
+      "foi um movimento conspiratório da coroa portuguesa que visava a aumentar significativamente a cobrança de impostos sobre as regiões mineradoras do Brasil, especialmente sobre Minas Gerais, e que visava a arrecadar recursos para a reconstrução de Lisboa, abalada por um terremoto em 1755."
+    ],
+    "answer": "foi uma revolta de caráter separatista, organizada pela elite mineira, que almejava a transformação de Minas Gerais em uma república e que se posicionava contra as excessivas cobranças de impostos da coroa portuguesa diante da economia mineradora.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Filósofo influenciado pelo maniqueísmo e reconhecido por conceber a importância da Igreja na salvação, foi defensor da predestinação divina. Acreditava que o mal estaria presente a partir do livre-arbítrio, ou seja, do distanciamento dos fundamentos do caminho da fé e da razão para a comprovação da verdade. O filósofo representado neste enunciado é:",
+    "options": [
+      "Rousseau.",
+      "Montesquieu.",
+      "Francis Bacon.",
+      "Santo Agostinho.",
+      "Denis Diderot"
+    ],
+    "answer": "Santo Agostinho.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "A organização e o povoamento de uma região dependem em grande parte das variantes geográficas e, a partir daí, das condições encontradas pelas populações humanas para o desenvolvimento de sua cultura e a reafirmação de sua identidade e de seus valores culturais. Dessa forma, encontramos em Mato Grosso do Sul uma grande diversidade de ambientes que influenciam a cultura e a identidade regional. Sobre esse aspecto, assinale a alternativa correta que se relaciona às vivências sociais no Pantanal de Mato Grosso do Sul.",
+    "options": [
+      "Os habitantes do Pantanal mato-grossense constituíram uma identidade fundamentada na exploração dos ervais nativos e nas práticas de grupos indígenas Guarani, sendo essa a principal matriz cultural desses grupos sociais.",
+      "Reduto de inúmeros quilombos e comunidades de africanos libertos, historicamente a região do Pantanal abrigou a mais ampla comunidade negra do Centro- Oeste brasileiro, sendo significativa a participação africana na formação cultural dos povos que habitam essa região.",
+      "O Pantanal é formado por grandes propriedades rurais que praticam a pecuária extensiva, os chamados latifúndios pastoris, o que permite compreender que a identidade regional é definida a partir das vivências de grupos étnicos brancos e que controlam a economia e a política regional.",
+      "Com grande influência do ambiente, os povos que habitam o Pantanal compartilham experiências culturais do pastoreio do gado e da pesca nos rios da região com traços dos países latinos vizinhos e dos povos nativos que habitaram a região, especialmente na linguagem e nos hábitos alimentares.",
+      "Definido pelo ambiente cerrado e a ausência de aglomerados urbanos, as vivências do Pantanal de Mato Grosso do Sul podem ser definidas a partir de uma mescla cultural entre as práticas do Brasil Central (Minas Página 18 de 19 Gerais e Goiás), de países sul-americanos fronteiros (Paraguai e Bolívia) e de povos nativos andinos."
+    ],
+    "answer": "Com grande influência do ambiente, os povos que habitam o Pantanal compartilham experiências culturais do pastoreio do gado e da pesca nos rios da região com traços dos países latinos vizinhos e dos povos nativos que habitaram a região, especialmente na linguagem e nos hábitos alimentares.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "A lógica econômica de ocupação e de exploração da América portuguesa durante os séculos XVI e XVII se deu baseada, primeiramente, no extrativismo e, em um segundo momento, no cultivo da cana-de-açúcar. Sobre essa lógica produtiva, assinale a alternativa correta.",
+    "options": [
+      "O total da produção colonial nos dois primeiros séculos de ocupação foram de extração de pau-brasil e de plantio de canade- açúcar, o que gerou a formação de grandes latifúndios no litoral nordestino.",
+      "A divisão das terras no Nordeste colonial se deu em função da exploração do pau-brasil e do açúcar, formando capitanias hereditárias que ingressaram no sistema do “exclusivo comercial”.",
+      "A ação colonialista levou à formação de monoculturas para exportação, no entanto, a produção para o mercado interno sempre vigorou e foi parte importante da estrutura econômica colonial.",
+      "Apesar da produção colonial ser diversificada, a cana-de-açúcar era o foco do mercantilismo português, levando a investimentos massivos na América e à elevação do Brasil a Reino Unido a Portugal e Algarves.",
+      "Para além do cultivo da cana-de-açúcar, a produção colonial era voltada para o mercado interno e para a subsistência, tendo como mão de obra majoritária a escravização de pessoas africanas."
+    ],
+    "answer": "A ação colonialista levou à formação de monoculturas para exportação, no entanto, a produção para o mercado interno sempre vigorou e foi parte importante da estrutura econômica colonial.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "“Sob qualquer aspecto, este foi provavelmente o mais importante acontecimento da história do mundo, pelo menos desde a invenção da agricultura e das cidades. E foi iniciado pela Grã-Bretanha. É evidente que isto não foi acidental. Se tivesse que haver uma disputa pelo pioneirismo da revolução industrial no século XVIII, só haveria de fato um concorrente a dar a largada: o grande avanço comercial e industrial de Portugal à Rússia.” (HOBSBAWM, Eric. A Era das Revoluções (1789- 1848). 5. ed. Rio de Janeiro: Paz e Terra, 1982. p. 45) Assinale a alternativa que explica corretamente o pioneirismo inglês na Revolução Industrial.",
+    "options": [
+      "Ocorreu devido a ideias liberalistas e iluministas de ingleses como John Locke e Adam Smith, revolucionários que tiveram o papel de instaurar um governo liberal e incentivar a formação das primeiras indústrias.",
+      "A Inglaterra estabeleceu uma relação de povoamento com suas colônias na América e na Ásia. Com isso, propiciou uma acelerada produção de monoculturas e de manufaturas coloniais, que eram exportadas para a metrópole e geravam acúmulo de capital.",
+      "Sucedeu-se devido ao acúmulo de riquezas que se efetuou por meio da realidade mercantilista do século XVI ao XVIII, incluindo o tráfico de pessoas escravizadas, o que propiciou às monarquias inglesas construir as bases de uma economia capitalista produtiva.",
+      "Em razão da superioridade educacional e científica em relação a outros países europeus, como a França, por exemplo, esta preeminência levou a investimentos massivos em tecnologia industrial.",
+      "Os ingleses foram os primeiros na Europa a promoverem uma revolução que acabou com o absolutismo; o novo governo burguês colocou o lucro privado e o desenvolvimento econômico capitalista como políticas centrais."
+    ],
+    "answer": "Os ingleses foram os primeiros na Europa a promoverem uma revolução que acabou com o absolutismo; o novo governo burguês colocou o lucro privado e o desenvolvimento econômico capitalista como políticas centrais.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Parte da Europa e de outros lugares do mundo, no século XIX, conviveram com o aumento de capitais, a administração estatal burguesa e o sistema produtivo fabril. Esta dinâmica capitalista leva, a médio prazo:",
+    "options": [
+      "ao estabelecimento de alguns direitos trabalhistas, o que evitou conflitos operários e retardou a fundação de sindicatos e de associações trabalhistas.",
+      "à formalização do trabalho, conforme os operários urbanos ingressavam nas indústrias.",
+      "à polarização entre o sistema capitalista e o socialista, após a publicação das teorias de Karl Marx em meados dos oitocentos.",
+      "ao aumento da urbanização, com crescimento não planejado de zonas urbanas (sobretudo as industriais), formação de vilas operárias e sobrecarga em serviços como transporte e saneamento básico.",
+      "à modernização do maquinário rural e à introdução de tecnologia de ponta nas pequenas e nas grandes propriedades campestres, o que propiciou um aumento na produção alimentar."
+    ],
+    "answer": "ao aumento da urbanização, com crescimento não planejado de zonas urbanas (sobretudo as industriais), formação de vilas operárias e sobrecarga em serviços como transporte e saneamento básico.",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Ao longo do século XIX, a monarquia brasileira empreendeu vários projetos de imigração, visando a atrair europeus. Apesar do apoio por parte de governos provinciais, como São Paulo, a política de imigração também encontrou resistência. Assinale a alternativa que descreve corretamente um desses modos de oposição.",
+    "options": [
+      "A reação dos proprietários de escravizados, que viam seus interesses mercadológicos ameaçados, pressionava o Parlamento na primeira metade dos oitocentos, só Página 19 de 19 arrefecendo quando do Bill Aberdeen e da Lei Eusébio de Queirós.",
+      "A população urbana receava o inchaço das cidades com o aumento populacional que a imigração causaria; não era incomum comerciantes não darem trabalho a famílias recém-chegadas da Europa.",
+      "Latifundiários temiam que a imigração acelerasse a abolição do trabalho escravo e, consequentemente, tivessem que pagar pela mão de obra nas fazendas. Viu-se uma crescente adesão de fazendeiros tanto ao Partido Conservador quanto ao Partido Liberal para lutar por seus interesses.",
+      "As classes médias, sobretudo profissionais liberais, reagiram contra a imigração, pois, com grau maior de escolarização por parte dos europeus, bem como a melhor qualificação profissional, estes ocupariam postos de trabalho mais importantes e rentáveis.",
+      "A classe operária organizou greves e passeatas em algumas cidades pela proteção empregatícia dos nacionais, em uma clara contraposição ao trabalho imigrante, que iria ocupar os poucos postos de trabalho nas ainda incipientes fábricas."
+    ],
+    "answer": "",
+    "image": ""
+  },
+  {
+    "text": "",
+    "question": "Proposta de modelo econômico e político surgido no século XIX, no contexto da Segunda Revolução Industrial, de caráter revolucionário, teorizou a substituição do capitalismo por um Estado dirigente que garantiria a igualdade econômica. Baseada em uma interpretação de transformação dos fenômenos históricos por meio da luta de classes, alvitrou a separação dialética da sociedade em burguesia fabril e proletariado explorado. Somente a conscientização desse proletariado levaria à ruptura entre as classes e à socialização dos meios de produção. A este modelo dá-se o nome de:",
+    "options": [
+      "Anarquismo.",
+      "Liberalismo.",
+      "Socialismo Real.",
+      "Socialismo Utópico.",
+      "Socialismo Científico."
+    ],
+    "answer": "Socialismo Científico.",
+    "image": ""
+  }
+]
